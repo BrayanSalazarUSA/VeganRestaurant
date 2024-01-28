@@ -5,9 +5,9 @@
 
 ![](https://i.imgur.com/jeCPMzz.png)
 
-**Introduction:**A web portfolio created in React and SASS. It has responsive design and multiple sections where I show who I am, my work and experience.
+**Introduction:**A responsive website with a captivating design. It is a healthy food restaurant, it has a dark and light mode and also with a section where you can view the menus of the week with their prices and the menu of the week.
 
-It has a backend on the SANITY platform, where data is brought dynamically to my portfolio so I have a control of the data in a decoupled way out of the frontend.
+
 
 
 
